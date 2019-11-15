@@ -8,4 +8,5 @@ There are a Huge number of problems in the world. We have choosen the following 
             2. Rape </pre>
 We have taken 2 biggest problem of the world and had a deep dive into finding the solution we came up with a solution that we named "THE QUANTA"
 
-basically Quanta is a product
+Basically Quanta is a product (An application, Website, Software) created using:[ HTML, CSS3, JAVASCRIPT, PHP, NODEJS, PYTHON, TWILLO API ]
+
