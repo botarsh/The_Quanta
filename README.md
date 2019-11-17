@@ -10,3 +10,6 @@ We have taken 2 biggest problem of the world and had a deep dive into finding th
 
 Basically Quanta is a product (An application, Website, Software) created using:[ HTML, CSS3, JAVASCRIPT, PHP, NODEJS, PYTHON, TWILLO API ]
 
+###How it works?
+
+
