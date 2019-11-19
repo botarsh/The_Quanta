@@ -12,4 +12,4 @@ Basically Quanta is a product (An application, Website, Software) created using:
 
 ###How it works?
 
-we are using
+If a person trigger the alert then
