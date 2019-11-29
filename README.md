@@ -12,6 +12,6 @@ Basically Quanta is a product (An application, Website, Software) created using:
 
 ###How it works?
 
-Step 1
-If a person trigger the alert from his/her phone through App or Website Or SOS. Then the alert
+Step 1-
+If a person trigger the alert from his/her phone through App or Website Or SOS. Then the realtime location of the user will be saved in packets
 
