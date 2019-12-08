@@ -22,7 +22,7 @@ Chatbot facility is available through which person can contact us directly, we w
 them to connect with experts who can resolve their issues!
 
 <pre><h4>PROBLEM (Why QUANTA)</h4></pre>
-<pre>Being a woman in India ain't easy. Centuries of patriarchy have made women susceptible to 
+Being a woman in India ain't easy. Centuries of patriarchy have made women susceptible to 
 a lot of dangers in society. Sure, things may have improved over time, but only so much.
 
 Not a day goes by where you don’t hear of the news of a crime against women in India. 
@@ -32,7 +32,7 @@ country where women are given the stature of goddesses.
 Furthermore, domestic violence and honor killings are very common. The wife stays in an abusive 
 relationship because of the fear of society. The family kills their daughters in the name of honor 
 to keep up with the reputation of their family. The list continues as crimes against women are on 
-the rise rape, dowry deaths, trafficking and many more.</pre>
+the rise rape, dowry deaths, trafficking and many more.
 
 
 <pre><h4>SOLUTION / WORKING PRINCIPLE(How QUANTA Helps)</h4></pre>
@@ -53,12 +53,12 @@ with experts who can resolve their issues!
 
 <pre><h4>TECHNOLOGIES(What Powers QUANTA)</h4></pre>
 Driven by the following:
-*HTML
-*CSS3
-*JAVASCRIPT
-*PHP
-*NODEJS
-*PYTHON
-*TWILIO API 
+* HTML
+* CSS3
+* JAVASCRIPT
+* PHP
+* NODEJS
+* PYTHON
+* TWILIO API 
 
 
