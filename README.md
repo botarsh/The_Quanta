@@ -1,11 +1,11 @@
 --------------------------------------------
-<pre><h2>QUANTA</h2></pre>
+<h1>QUANTA</h1>
 
 <pre><h4>ABOUT (Who are we?)</h4></pre>
-<pre>Quanta is a platform ( App or Website Or SOS) aimed to ensure women's safety in 
+Quanta is a platform ( App or Website Or SOS) aimed to ensure women's safety in 
 our country by sharing real-time location with peoples nearby in case of emergency. 
 Moreover, we provide a platform where they can share their problems and get the most
-reliable solution.</pre>
+reliable solution.
 
 <pre><h4>FEATURE'S</h4></pre>
  
@@ -36,7 +36,7 @@ the rise rape, dowry deaths, trafficking and many more.</pre>
 
 
 <pre><h4>SOLUTION / WORKING PRINCIPLE(How QUANTA Helps)</h4></pre>
-<pre>We provide a platform which is aimed to ensure women's safety in 
+We provide a platform which is aimed to ensure women's safety in 
 our country by sharing real-time location with peoples nearby in case of emergency. 
 Moreover, we provide a platform where they can share their problems and get the most
 reliable solution. And this is how it functions~
@@ -49,16 +49,16 @@ the range of 5km and have registered in any of the platform mentioned.
 message will be sent to the people nearby.
 
 * Chatbot facility is available through which person can contact us directly, we will help them to connect
-with experts who can resolve their issues!</pre>
+with experts who can resolve their issues!
 
 <pre><h4>TECHNOLOGIES(What Powers QUANTA)</h4></pre>
-<pre>Driven by the following:
-HTML
-CSS3
-JAVASCRIPT
-PHP
-NODEJS
-PYTHON
-TWILIO API </pre>
+Driven by the following:
+*HTML
+*CSS3
+*JAVASCRIPT
+*PHP
+*NODEJS
+*PYTHON
+*TWILIO API 
 
 
