@@ -8,7 +8,7 @@ Moreover, we provide a platform where they can share their problems and get the 
 reliable solution.</pre>
 
 <pre><h4>FEATURE'S</h4></pre>
- <pre>
+ 
 * The real-time location of the user will be saved and sent to the people who are within
 the range of 5km and have registered in any of the platforms mentioned.
  
@@ -19,7 +19,7 @@ the range of 5km and have registered can come for help.
 
 * Via this platform women can talk about the problems they are facing at work and home.
 Chatbot facility is available through which person can contact us directly, we will help
-them to connect with experts who can resolve their issues!</pre>
+them to connect with experts who can resolve their issues!
 
 <pre><h4>PROBLEM (Why QUANTA)</h4></pre>
 <pre>Being a woman in India ain't easy. Centuries of patriarchy have made women susceptible to 
