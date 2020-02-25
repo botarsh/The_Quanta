@@ -1,7 +1,7 @@
 --------------------------------------------
 <h1>QUANTA</h1>
 
-<pre><h4>ABOUT (Who are we?)</h4></pre>
+<pre><h4>ABOUT</h4></pre>
 Quanta is a platform ( App or Website Or SOS) aimed to ensure women's safety in 
 our country by sharing real-time location with peoples nearby in case of emergency. 
 Moreover, we provide a platform where they can share their problems and get the most
