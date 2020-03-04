@@ -57,7 +57,7 @@ Driven by the following:
 * CSS3
 * JAVASCRIPT
 * PHP
-* NODEJS
+* NODE.JS
 * PYTHON
 * TWILIO API 
 
