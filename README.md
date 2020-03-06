@@ -7,7 +7,7 @@ our country by sharing real-time location with peoples nearby in case of emergen
 Moreover, we provide a platform where they can share their problems and get the most
 reliable solution.
 
-<pre><h4>FEATURE'S</h4></pre>
+<pre><h4>FEATURES</h4></pre>
  
 * The real-time location of the user will be saved and sent to the people who are within
 the range of 5km and have registered in any of the platforms mentioned.
